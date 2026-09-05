@@ -1,5 +1,3 @@
-import { GroqEngine } from '../engine/groq.js';
-
 /**
  * 10 Strategic Research Pillars from Problemstatement.md
  */
@@ -72,17 +70,13 @@ export const STRATEGIC_PILLAR_QUESTIONS = [
 export class ModalManager {
   /**
    * @param {Function} onPillarSelect - Callback when user clicks a strategic question
-   * @param {Function} onApiKeyUpdated - Callback when API key is saved/cleared
    */
-  constructor(onPillarSelect, onApiKeyUpdated) {
+  constructor(onPillarSelect) {
     this.onPillarSelect = onPillarSelect;
-    this.onApiKeyUpdated = onApiKeyUpdated;
     this.initModals();
   }
 
   initModals() {
-    // Backdrop
-    this.apiKeyModal = document.getElementById('api-key-modal');
     this.pillarsModal = document.getElementById('pillars-modal');
 
     // Close buttons
@@ -96,29 +90,6 @@ export class ModalManager {
         if (e.target === backdrop) this.closeAll();
       });
     });
-
-    // API Key Save & Clear Handlers
-    const saveKeyBtn = document.getElementById('btn-save-api-key');
-    const clearKeyBtn = document.getElementById('btn-clear-api-key');
-    const apiKeyInput = document.getElementById('input-groq-api-key');
-
-    if (saveKeyBtn && apiKeyInput) {
-      saveKeyBtn.addEventListener('click', () => {
-        const val = apiKeyInput.value.trim();
-        GroqEngine.setApiKey(val);
-        this.closeAll();
-        if (this.onApiKeyUpdated) this.onApiKeyUpdated(val);
-      });
-    }
-
-    if (clearKeyBtn && apiKeyInput) {
-      clearKeyBtn.addEventListener('click', () => {
-        apiKeyInput.value = '';
-        GroqEngine.clearApiKey();
-        this.closeAll();
-        if (this.onApiKeyUpdated) this.onApiKeyUpdated(null);
-      });
-    }
 
     // Populate Strategic Pillars Grid
     const pillarsContainer = document.getElementById('strategic-pillars-list');
@@ -140,16 +111,6 @@ export class ModalManager {
           }
         });
       });
-    }
-  }
-
-  openApiKeyModal() {
-    const input = document.getElementById('input-groq-api-key');
-    if (input) {
-      input.value = GroqEngine.getApiKey() || '';
-    }
-    if (this.apiKeyModal) {
-      this.apiKeyModal.classList.add('active');
     }
   }
 

@@ -28,12 +28,6 @@ class DiscoveryApp {
     // 2. Load Dataset & Baseline Metrics
     await this.loadDataset();
 
-    // 3. Auto-load API key from .env if present
-    await GroqEngine.loadFromEnv();
-
-    // 4. Update API Key connection indicator
-    this.updateApiKeyStatus();
-
     console.log('✨ Engine ready. Total reviews loaded:', this.reviews.length);
   }
 
@@ -55,16 +49,10 @@ class DiscoveryApp {
 
     // Modals
     this.modal = new ModalManager(
-      (pillarQuery) => this.chat.submitQuery(pillarQuery),
-      (newKey) => this.updateApiKeyStatus()
+      (pillarQuery) => this.chat.submitQuery(pillarQuery)
     );
 
-    // Header buttons
-    const btnApiKey = document.getElementById('btn-open-api-key');
-    if (btnApiKey) {
-      btnApiKey.addEventListener('click', () => this.modal.openApiKeyModal());
-    }
-
+    // Strategic pillars button
     const btnAllPillars = document.getElementById('btn-open-all-pillars');
     if (btnAllPillars) {
       btnAllPillars.addEventListener('click', () => this.modal.openPillarsModal());
@@ -111,20 +99,6 @@ class DiscoveryApp {
     const response = await GroqEngine.query(query, contextPayload, this.metrics);
 
     return response;
-  }
-
-  updateApiKeyStatus() {
-    const hasKey = GroqEngine.hasApiKey();
-    const btn = document.getElementById('btn-open-api-key');
-    if (!btn) return;
-
-    if (hasKey) {
-      btn.className = 'btn-icon-text connected';
-      btn.innerHTML = '⚡ Groq Connected';
-    } else {
-      btn.className = 'btn-icon-text';
-      btn.innerHTML = '⚙️ Configure Groq API';
-    }
   }
 }
 

@@ -32,9 +32,6 @@
           <span class="status-dot"></span>
           <span>Docs/reviews.csv (2,249 Reviews)</span>
         </div>
-        <button class="btn-icon-text" id="btn-open-api-key" title="Configure Groq API Key">
-          ⚙️ Configure Groq API
-        </button>
       </div>
     </header>
 
@@ -123,30 +120,6 @@
       </section>
 
     </main>
-
-    <!-- Modal: Groq API Key Configuration -->
-    <div class="modal-backdrop" id="api-key-modal">
-      <div class="modal-dialog">
-        <div class="modal-header">
-          <h3 class="modal-title">⚡ Configure Groq AI Inference</h3>
-          <button class="btn-close" title="Close Modal">&times;</button>
-        </div>
-        <div class="modal-body">
-          <div class="form-group">
-            <label class="form-label" for="input-groq-api-key">Groq API Key (starts with <code>gsk_...</code>)</label>
-            <input type="password" class="form-input" id="input-groq-api-key" placeholder="gsk_..." />
-            <p class="form-help">
-              Your API key is securely stored only in your browser's <code>localStorage</code> and used directly for fast <code>openai/gpt-oss-120b</code> inference. 
-              If no API key is provided, the engine will automatically use the built-in <strong>Local Evidence Synthesizer</strong>.
-            </p>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button class="btn-secondary btn-cancel-modal" id="btn-clear-api-key">Clear Key</button>
-          <button class="btn-primary" id="btn-save-api-key">Save &amp; Connect</button>
-        </div>
-      </div>
-    </div>
 
     <!-- Modal: 10 Strategic Pillar Questions -->
     <div class="modal-backdrop" id="pillars-modal">
