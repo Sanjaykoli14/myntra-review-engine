@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Myntra Review & Discovery Engine — Wishlist-to-Purchase Intelligence</title>
+  <meta name="description" content="AI-powered Review and Discovery Engine uncovering behavioral barriers between wishlist intent and purchase conversions across Myntra customer reviews.">
+  
+  <!-- Google Fonts: Plus Jakarta Sans -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  
+  <!-- Design System CSS -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Top Navigation Header -->
+    <header class="top-navbar">
+      <div class="brand-section">
+        <div class="brand-logo" title="Myntra Discovery Engine">M</div>
+        <div class="brand-info">
+          <h1>MYNTRA REVIEW &amp; DISCOVERY ENGINE</h1>
+          <p>AI-Powered Wishlist-to-Purchase Conversion Intelligence</p>
+        </div>
+      </div>
+      
+      <div class="nav-actions">
+        <div class="dataset-status-pill" id="dataset-status-badge">
+          <span class="status-dot"></span>
+          <span>Docs/reviews.csv (2,249 Reviews)</span>
+        </div>
+        <button class="btn-icon-text" id="btn-open-api-key" title="Configure Groq API Key">
+          ⚙️ Configure Groq API
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main class="main-workspace">
+      
+      <!-- Left Sidebar: Dataset Overview -->
+      <aside class="sidebar-overview" id="sidebar-container" aria-label="Dataset Overview">
+        <!-- Injected dynamically via src/ui/sidebar.js -->
+        <div style="padding: 24px; color: var(--text-muted); font-size: 14px; text-align: center;">
+          Loading dataset overview...
+        </div>
+      </aside>
+
+      <!-- Main Discovery & Chat Interface -->
+      <section class="chat-workspace" aria-label="Conversational AI Discovery">
+        
+        <!-- Suggested Questions Bar -->
+        <div class="suggested-prompts-bar">
+          <div class="suggested-header">
+            <span class="suggested-title">💡 Suggested Quick Questions:</span>
+            <button class="btn-expand-all" id="btn-open-all-pillars">
+              <span>+ Explore All 10 Strategic Questions</span>
+            </button>
+          </div>
+
+          <!-- 4 Default Suggested Questions -->
+          <div class="quick-prompts-grid">
+            <button class="prompt-btn" data-query="Why do users wishlist products but not buy them?">
+              <span class="prompt-icon">🛍️</span>
+              <span>Why do users wishlist but not buy?</span>
+            </button>
+            <button class="prompt-btn" data-query="What are the biggest purchase barriers preventing checkout?">
+              <span class="prompt-icon">🚧</span>
+              <span>What are the biggest purchase barriers?</span>
+            </button>
+            <button class="prompt-btn" data-query="What uncertainties do users have before purchasing?">
+              <span class="prompt-icon">❓</span>
+              <span>What uncertainties do users have?</span>
+            </button>
+            <button class="prompt-btn" data-query="What are the biggest conversion opportunities to prioritize?">
+              <span class="prompt-icon">🚀</span>
+              <span>What are the top conversion opportunities?</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Chat Stream Feed -->
+        <div class="chat-feed" id="chat-feed-container">
+          
+          <!-- Welcome Hero Card -->
+          <div class="welcome-hero-card" id="welcome-card">
+            <h2 class="welcome-title">✨ Welcome to the Review &amp; Discovery Engine</h2>
+            <p class="welcome-desc">
+              This engine analyzes <strong>2,249 customer reviews</strong> from <code>Docs/reviews.csv</code> to uncover why users save fashion items to their wishlist but fail to convert within 30 days. 
+              Ask any question or click a suggested query above to extract grounded evidence, friction themes, and high-impact product recommendations.
+            </p>
+            <div class="pillar-chips-row">
+              <span class="pillar-chip" data-query="What role do fit, size, styling, price, reviews, and occasion play in purchase decisions?">🏷️ Fit, Sizing &amp; Price Roles</span>
+              <span class="pillar-chip" data-query="When is the wishlist used as genuine purchase intent versus bookmarking?">🔖 Wishlist vs. Bookmarking</span>
+              <span class="pillar-chip" data-query="What information do users seek outside Myntra/AJIO before purchasing?">🔍 External Info Seeking</span>
+              <span class="pillar-chip" data-query="How do purchase postponement behaviors differ across user segments?">👥 Segment Differences</span>
+              <span class="pillar-chip" data-query="What unmet needs emerge consistently across user conversations?">💡 Core Unmet Needs</span>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Bottom Query Search Bar -->
+        <div class="chat-input-area">
+          <div class="input-box-wrapper">
+            <input 
+              type="text" 
+              class="chat-input" 
+              id="chat-input-field" 
+              placeholder="Ask any discovery question about Myntra reviews, sizing doubts, refund friction..." 
+              autocomplete="off"
+              maxlength="500"
+            />
+            <button class="btn-send" id="btn-send-chat" title="Submit Question (Enter)">
+              ➤
+            </button>
+          </div>
+        </div>
+
+      </section>
+
+    </main>
+
+    <!-- Modal: Groq API Key Configuration -->
+    <div class="modal-backdrop" id="api-key-modal">
+      <div class="modal-dialog">
+        <div class="modal-header">
+          <h3 class="modal-title">⚡ Configure Groq AI Inference</h3>
+          <button class="btn-close" title="Close Modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <div class="form-group">
+            <label class="form-label" for="input-groq-api-key">Groq API Key (starts with <code>gsk_...</code>)</label>
+            <input type="password" class="form-input" id="input-groq-api-key" placeholder="gsk_..." />
+            <p class="form-help">
+              Your API key is securely stored only in your browser's <code>localStorage</code> and used directly for fast <code>openai/gpt-oss-120b</code> inference. 
+              If no API key is provided, the engine will automatically use the built-in <strong>Local Evidence Synthesizer</strong>.
+            </p>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button class="btn-secondary btn-cancel-modal" id="btn-clear-api-key">Clear Key</button>
+          <button class="btn-primary" id="btn-save-api-key">Save &amp; Connect</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal: 10 Strategic Pillar Questions -->
+    <div class="modal-backdrop" id="pillars-modal">
+      <div class="modal-dialog" style="max-width: 680px;">
+        <div class="modal-header">
+          <h3 class="modal-title">📚 10 Strategic Discovery Pillars</h3>
+          <button class="btn-close" title="Close Modal">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p style="font-size:12px;color:var(--text-secondary)">
+            Click any of the strategic research questions below to launch a comprehensive, evidence-grounded AI discovery query:
+          </p>
+          <div class="strategic-questions-grid" id="strategic-pillars-list">
+            <!-- Injected via src/ui/modal.js -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Precomputed Dataset Module (Zero Latency Boot) -->
+  <script src="src/data/dataset.js"></script>
+
+  <!-- Modular Application Script -->
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

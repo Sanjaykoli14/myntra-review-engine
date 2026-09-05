@@ -1,0 +1,1446 @@
+﻿{
+    "sentiment":  {
+                      "counts":  {
+                                     "negative":  855,
+                                     "positive":  1366,
+                                     "neutral":  28
+                                 },
+                      "percentages":  {
+                                          "negative":  38,
+                                          "positive":  60.7,
+                                          "neutral":  1.2
+                                      }
+                  },
+    "total_reviews":  2249,
+    "avg_rating":  3.43,
+    "themes":  {
+                   "Occasion-Based Purchasing":  {
+                                                     "opportunity_score":  10,
+                                                     "percentage":  5.8,
+                                                     "pain_ratio":  0.55,
+                                                     "sample_quotes":  [
+                                                                           {
+                                                                               "date":  "8/13/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "When the mistake is in their part, The return policy is complicated. It’s been days, Countless requests with customer support and grievance officer but issue is not getting resolved."
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/12/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me i compare cost per wear especially for pricier items like ethnic wear or occasion wear"
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/9/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "The UI of wishlist page feels cluttered and loading is slow when list is long. This needs urgent attention. Bilkul bhi accha nahi laga."
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/5/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "Reddit",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Dear Myntra ,\n\nI am writing to raise a formal complaint regarding the delayed delivery of two HRX products that I ordered from Myntra. The promised delivery date was 18 August, but the products have still not been delivered. Moreover, there has been no proper update showing the order as delayed or explaining the reason for the delay.\n\nI have already contacted Myntra Customer Care two to three times regarding this issue. Even before today, there was no proper delivery attempt made for my order. Today was the promised delivery date, yet the delivery was again not attempted.\n\nWhen I contacted Customer Care earlier, I was asked to wait until 9 PM for the delivery. After 9 PM, when I contacted Customer Care again, I was told to wait for another 72 hours.\n\nI would like to understand why I should be asked to wait for an additional 72 hours when the product was promised to me for delivery on 18 August. I placed the order based on the delivery date provided by Myntra, and I expect the product to be delivered within the committed timeline.\n\nI am a loyal Myntra customer and have always trusted Myntra for reliable service. Therefore, I do not expect such a delay without any proper communication or resolution.\n\nI request you to please look into this matter urgently, provide me with a clear explanation for the delay, and ensure that my products are delivered at the earliest without asking me to wait indefinitely.\n\nPlease treat this as a formal grievance and provide me with a proper resolution.\n\nRegards,\nYogendra Kumar Sharma"
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/4/2026",
+                                                                               "rating":  4,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Wishlist is basically my shopping list for the upcoming wedding season in my family. I save items when I\u0027m not sure yet and want to think it over before buying."
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/2/2026",
+                                                                               "rating":  4,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Wish there was a way to virtually try similar outfits before deciding among my shortlisted items. Need an easier way to convert my wishlist into a proper occasion based shopping checklist."
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/1/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Didn\u0027t know for sure if it would suit the specific occasion I was buying it for. Need an easier way to convert my wishlist into a proper occasion based shopping checklist."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/18/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "I\u0027m from a tier 2 city so I wishlist more since local shopping options are limited here for me. I use wishlist to save gift ideas for my sister\u0027s birthday coming up next month."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/15/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "I occasionally use myntra i don’t prefer it. Whenever i have used I have got cheap product or it get cancelled after waiting for more than expected delivery. After all these repeated experiences I uninstalled the app."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/14/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Items in wishlist don\u0027t show updated discount, I only realise when I open the product page separately. This needs urgent attention."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/14/2026",
+                                                                               "rating":  4,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "This pant is soo nice and wear comfortably i think for casual office look it will give a good outfit look."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/12/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Elegant outfit , fits in all\nOccasions"
+                                                                           },
+                                                                           {
+                                                                               "date":  "6/28/2026",
+                                                                               "rating":  4,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "occasion decides everything for me, i shop very differently for festive versus casual wear my mother uses wishlist very differently, she saves items and asks the whole family before buying anything"
+                                                                           },
+                                                                           {
+                                                                               "date":  "6/24/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "Item went out of stock in my size before I could finally decide to buy. I use wishlist to save gift ideas for my sister\u0027s birthday coming up next month."
+                                                                           },
+                                                                           {
+                                                                               "date":  "6/22/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Occasion-Based Purchasing",
+                                                                               "quote":  "I compare cost per wear especially for pricier items like ethnic wear or occasion wear. I kept comparing it with newer arrivals and never circled back to the original saved item."
+                                                                           }
+                                                                       ],
+                                                     "sentiment":  {
+                                                                       "negative":  71,
+                                                                       "positive":  56,
+                                                                       "neutral":  3
+                                                                   },
+                                                     "count":  130
+                                                 },
+                   "Reviews \u0026 Ratings Reliability":  {
+                                                              "opportunity_score":  10,
+                                                              "percentage":  13.9,
+                                                              "pain_ratio":  0.66,
+                                                              "sample_quotes":  [
+                                                                                    {
+                                                                                        "date":  "8/9/2026",
+                                                                                        "rating":  5,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "I search Google for honest reviews of the brand before trusting it with my money. Wish there was a countdown or urgency indicator for limited stock on wishlist items."
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "8/5/2026",
+                                                                                        "rating":  5,
+                                                                                        "source":  "App Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Reviews on the product page were not convincing enough for me to finally commit and buy. I got distracted with other things and simply forgot I had saved it in the first place."
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "8/5/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "bht hi bkwas app h koi bhi kuch purchase na kre mne top order kiya tha size exchange kiya to deliver boy dekh kr chle gya or exchange kiya hi nhi date bda di or aj cansel kr diya exchange isse ghtiya shoping app mne aj tk nhi dekha logo k paise khrb krte h ab m jo size muje ata hi nhi kya kru uska ase app ki wjh se online shoping pr se trust break ho jta h mera to yhi khna h sb logo se apne paise is app pr khrb na kre ye log scram kr rh h bht hi bura experience rh mera to 😞😞😞😞😞😞😞😫😫😫😡"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "8/5/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Reddit",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Dear Myntra ,\n\nI am writing to raise a formal complaint regarding the delayed delivery of two HRX products that I ordered from Myntra. The promised delivery date was 18 August, but the products have still not been delivered. Moreover, there has been no proper update showing the order as delayed or explaining the reason for the delay.\n\nI have already contacted Myntra Customer Care two to three times regarding this issue. Even before today, there was no proper delivery attempt made for my order. Today was the promised delivery date, yet the delivery was again not attempted.\n\nWhen I contacted Customer Care earlier, I was asked to wait until 9 PM for the delivery. After 9 PM, when I contacted Customer Care again, I was told to wait for another 72 hours.\n\nI would like to understand why I should be asked to wait for an additional 72 hours when the product was promised to me for delivery on 18 August. I placed the order based on the delivery date provided by Myntra, and I expect the product to be delivered within the committed timeline.\n\nI am a loyal Myntra customer and have always trusted Myntra for reliable service. Therefore, I do not expect such a delay without any proper communication or resolution.\n\nI request you to please look into this matter urgently, provide me with a clear explanation for the delay, and ensure that my products are delivered at the earliest without asking me to wait indefinitely.\n\nPlease treat this as a formal grievance and provide me with a proper resolution.\n\nRegards,\nYogendra Kumar Sharma"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "8/2/2026",
+                                                                                        "rating":  2,
+                                                                                        "source":  "App Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Myntra looks fake these days, images are blurry and some customer reviews are AI generated, images shared by the customers are also AI generated, not able to understand which one is AI and which one is original"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/31/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "App Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "This delay has caused me significant inconvenience. I have already checked with my neighbours and reviewed the tracking information, but there are no helpful updates.\n\nSince your company failed to deliver the product within the promised timeframe, I no longer require the item."
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/27/2026",
+                                                                                        "rating":  5,
+                                                                                        "source":  "App Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "i look closely at customer photos posted on reviews to compare fit across my saved items thik thak hai overall"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/20/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "about 90% of the reviews in the app are paid, dont trust reviews of the product, they gave myncash if you write positive reviews of the product in the app, and if you wrote negative reviews about the product, they hold your review"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/17/2026",
+                                                                                        "rating":  5,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Genuinely the wishlist button saved my time but half my saved items disappeared after I reinstalled the app, very frustrating. ðŸ‘Ž"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/14/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Disappointing This is extremely frustrating and completely unacceptable. I received a totally different product from what I ordered, and despite already contacting customer care multiple times, Myntra is still refusing to take the wrong product back.Instead of resolving such a basic issue,you are asking me to give feedback. This has caused unnecessary stress and wasted a lot of my time. I expect Myntra to take responsibility, arrange the return immediately, and issue my refund without any delay"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/13/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "App Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "At present, I no longer consider Myntra a trustworthy shopping platform based on my experience. Customers may receive incomplete, incorrect, or entirely different products from what they ordered, and even when valid return requests are raised with supporting evidence, they can face unnecessary rejection or delays.\nIn my experience, the situation becomes even more frustrating when the logistics partner allegedly makes no genuine attempt to collect the return, yet the return is marked as cancelled or failed based on the pickup agent’s own status update. What is even more concerning is the suspension or deactivation of a customer’s account while valid returns, refunds, and the customer’s money remain unresolved. This leaves customers feeling helpless and raises serious concerns about the transparency and accountability of the platform’s return, logistics, and account-management processes. Myntra should prioritize customer protection, transparent investigations, genuine pickup attempts, timely refunds, and fair treatment instead of leaving customers to struggle to recover money for products they did not receive correctly. New Income source of income for Myntra...😒"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/13/2026",
+                                                                                        "rating":  5,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "trusted online aap myntra quality very best \u0026 branded original item 👌"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/12/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "very bad app hai yehh mene 3 bar order Kiya mujhe 3 bar hi nhi mera order received hua kabhi delay toh kabhi cancel ense acha toh meesho app hai woh delivery toh tym to tym deta hai mera order mujhe ajj receive hona thaa lekin inka message aya k order delay haii 😡😡😡😡😡😡😡😡😡😡😡😡😡😡 0 rating hai meri ganda app haii yehh"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/11/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "i ordered green colour kurtha set but I received pink colour short blouse type sleeveless western top. don\u0027t trust anyone myntra they are waste.waste of Time waste of money. I loss 580rs, the supportive team choose option only their side concern our side no one examine.pls don\u0027t trust myntra don\u0027t buy anyone .I send openning time videos and pics they not trust then how to prove our side concern .cheating 🤦"
+                                                                                    },
+                                                                                    {
+                                                                                        "date":  "7/7/2026",
+                                                                                        "rating":  1,
+                                                                                        "source":  "Play Store",
+                                                                                        "theme":  "Reviews \u0026 Ratings Reliability",
+                                                                                        "quote":  "Myntra has a really disappointing service. They often fail to deliver orders on time, and the customer service experience is also extremely poor and frustrating. I would strongly recommend thinking twice before purchasing from Myntra. Customers deserve timely delivery and proper support, but unfortunately, my experience has been very disappointing. Very poor service and customer experience."
+                                                                                    }
+                                                                                ],
+                                                              "sentiment":  {
+                                                                                "negative":  206,
+                                                                                "positive":  101,
+                                                                                "neutral":  6
+                                                                            },
+                                                              "count":  313
+                                                          },
+                   "Styling \u0026 Outfit Compatibility":  {
+                                                               "opportunity_score":  10,
+                                                               "percentage":  17.7,
+                                                               "pain_ratio":  0.33,
+                                                               "sample_quotes":  [
+                                                                                     {
+                                                                                         "date":  "8/14/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "⭐⭐⭐⭐⭐\n\nReally happy with this purchase! The jeans fit perfectly and are very comfortable to wear. The fabric quality is good, and the color looks exactly like the pictures. The fitting is stylish and flattering, and the length is also perfect. Overall, a good-quality jeans at a reasonable price. Definitely worth buying! 👖✨"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/12/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me i compare cost per wear especially for pricier items like ethnic wear or occasion wear"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/10/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "too many push notifications about wishlist items i\u0027m not even interested in anymore hope the team looks into this bilkul bhi accha nahi laga ðŸ˜ž"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/7/2026",
+                                                                                         "rating":  1,
+                                                                                         "source":  "Play Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Maybe add option to share wishlist link with friends and family, would be useful. Hope the team looks into this. ðŸ˜¡"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/6/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "Play Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me."
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/5/2026",
+                                                                                         "rating":  1,
+                                                                                         "source":  "Reddit",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Dear Myntra ,\n\nI am writing to raise a formal complaint regarding the delayed delivery of two HRX products that I ordered from Myntra. The promised delivery date was 18 August, but the products have still not been delivered. Moreover, there has been no proper update showing the order as delayed or explaining the reason for the delay.\n\nI have already contacted Myntra Customer Care two to three times regarding this issue. Even before today, there was no proper delivery attempt made for my order. Today was the promised delivery date, yet the delivery was again not attempted.\n\nWhen I contacted Customer Care earlier, I was asked to wait until 9 PM for the delivery. After 9 PM, when I contacted Customer Care again, I was told to wait for another 72 hours.\n\nI would like to understand why I should be asked to wait for an additional 72 hours when the product was promised to me for delivery on 18 August. I placed the order based on the delivery date provided by Myntra, and I expect the product to be delivered within the committed timeline.\n\nI am a loyal Myntra customer and have always trusted Myntra for reliable service. Therefore, I do not expect such a delay without any proper communication or resolution.\n\nI request you to please look into this matter urgently, provide me with a clear explanation for the delay, and ensure that my products are delivered at the earliest without asking me to wait indefinitely.\n\nPlease treat this as a formal grievance and provide me with a proper resolution.\n\nRegards,\nYogendra Kumar Sharma"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/2/2026",
+                                                                                         "rating":  2,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Myntra looks fake these days, images are blurry and some customer reviews are AI generated, images shared by the customers are also AI generated, not able to understand which one is AI and which one is original"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "8/2/2026",
+                                                                                         "rating":  4,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Wish there was a way to virtually try similar outfits before deciding among my shortlisted items. Need an easier way to convert my wishlist into a proper occasion based shopping checklist."
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/31/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Loved the Tshirt, its very comfortable to wear"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/29/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "such a nice fabric and it looks so beautiful"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/27/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "i look closely at customer photos posted on reviews to compare fit across my saved items thik thak hai overall"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/27/2026",
+                                                                                         "rating":  4,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Suggestion - please add folders or collections inside wishlist for better organisation. Hope the team looks into this. ðŸ˜¡"
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/26/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Good Quality products. Timely delivery. Easy shopping experience. MynCash offer is super good."
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/25/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Thinking about it, I always check how to style the item before buying it, saved reels really help with that."
+                                                                                     },
+                                                                                     {
+                                                                                         "date":  "7/22/2026",
+                                                                                         "rating":  5,
+                                                                                         "source":  "App Store",
+                                                                                         "theme":  "Styling \u0026 Outfit Compatibility",
+                                                                                         "quote":  "Need better styling suggestions on how to pair my saved items together for an outfit."
+                                                                                     }
+                                                                                 ],
+                                                               "sentiment":  {
+                                                                                 "negative":  129,
+                                                                                 "positive":  261,
+                                                                                 "neutral":  7
+                                                                             },
+                                                               "count":  397
+                                                           },
+                   "Fit \u0026 Size Uncertainty":  {
+                                                       "opportunity_score":  10,
+                                                       "percentage":  15.5,
+                                                       "pain_ratio":  0.52,
+                                                       "sample_quotes":  [
+                                                                             {
+                                                                                 "date":  "8/14/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "⭐⭐⭐⭐⭐\n\nReally happy with this purchase! The jeans fit perfectly and are very comfortable to wear. The fabric quality is good, and the color looks exactly like the pictures. The fitting is stylish and flattering, and the length is also perfect. Overall, a good-quality jeans at a reasonable price. Definitely worth buying! 👖✨"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "8/13/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "The cloths fit perfectly every time I order and the cloth quality is reasonable for the prices."
+                                                                             },
+                                                                             {
+                                                                                 "date":  "8/5/2026",
+                                                                                 "rating":  1,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "bht hi bkwas app h koi bhi kuch purchase na kre mne top order kiya tha size exchange kiya to deliver boy dekh kr chle gya or exchange kiya hi nhi date bda di or aj cansel kr diya exchange isse ghtiya shoping app mne aj tk nhi dekha logo k paise khrb krte h ab m jo size muje ata hi nhi kya kru uska ase app ki wjh se online shoping pr se trust break ho jta h mera to yhi khna h sb logo se apne paise is app pr khrb na kre ye log scram kr rh h bht hi bura experience rh mera to 😞😞😞😞😞😞😞😫😫😫😡"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "8/3/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Cute colour. Snug fit. Good material"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "8/2/2026",
+                                                                                 "rating":  4,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Wish there was a way to virtually try similar outfits before deciding among my shortlisted items. Need an easier way to convert my wishlist into a proper occasion based shopping checklist."
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/29/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "The blazer has awesome fitting and breathable material 😍"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/29/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "I love using this app, so affordable products w best quality be it skincare,bodycare, haircare or clothes everything is just bestttt"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/28/2026",
+                                                                                 "rating":  4,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Uncertain about the return policy in case it doesn\u0027t fit well once it arrives. I create a shortlist within my wishlist mentally and eliminate options one by one over days."
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/28/2026",
+                                                                                 "rating":  4,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Myntra ka interface bahut smooth hai aur ispar kapdon ke latest trends aasani se mil jaate hain. Delivery aur size guides bhi kaafi acche hain, isliye ye shopping ke liye mera favorite app hai.\""
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/27/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "i look closely at customer photos posted on reviews to compare fit across my saved items thik thak hai overall"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/27/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "I have to select size and colour again every single time I move item from wishlist to bag, why can\u0027t it remember my preference. Kindly improve this feature. Bilkul bhi accha nahi laga. ðŸ˜¡"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/25/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Very nice fit very stylish a d comfortable"
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/22/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "App Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Need better styling suggestions on how to pair my saved items together for an outfit."
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/20/2026",
+                                                                                 "rating":  5,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "Large Variety: Users like the wide range of clothing, beauty, and lifestyle brands. App Design: The interface is clean, smooth, and easy to navigate for browsing. Convenience: Many praise the simple return and exchange steps for correctly sized or non-defective items."
+                                                                             },
+                                                                             {
+                                                                                 "date":  "7/19/2026",
+                                                                                 "rating":  1,
+                                                                                 "source":  "Play Store",
+                                                                                 "theme":  "Fit \u0026 Size Uncertainty",
+                                                                                 "quote":  "very bad experience with recent order received wrong product with poor fitting nobody responds on help center from app"
+                                                                             }
+                                                                         ],
+                                                       "sentiment":  {
+                                                                         "negative":  180,
+                                                                         "positive":  164,
+                                                                         "neutral":  4
+                                                                     },
+                                                       "count":  348
+                                                   },
+                   "Product Comparison":  {
+                                              "opportunity_score":  10,
+                                              "percentage":  4.6,
+                                              "pain_ratio":  0.54,
+                                              "sample_quotes":  [
+                                                                    {
+                                                                        "date":  "8/12/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me i compare cost per wear especially for pricier items like ethnic wear or occasion wear"
+                                                                    },
+                                                                    {
+                                                                        "date":  "8/2/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Honestly half the stuff in my wishlist is stuff I saw on Instagram reels and added out of impulse. I usually screenshot my shortlisted items and compare them offline with my family later."
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/27/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "i look closely at customer photos posted on reviews to compare fit across my saved items thik thak hai overall"
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/17/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "better than the best quality"
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/12/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "I logged into Myntra for the first time after seeing an advertisement, and right off the bat, I received a product that looked like it had come straight out of a trial room—it was in terrible condition. The help desk was useless and offered no assistance; Flipkart and Amazon are definitely the better options."
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/12/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "very bad app hai yehh mene 3 bar order Kiya mujhe 3 bar hi nhi mera order received hua kabhi delay toh kabhi cancel ense acha toh meesho app hai woh delivery toh tym to tym deta hai mera order mujhe ajj receive hona thaa lekin inka message aya k order delay haii 😡😡😡😡😡😡😡😡😡😡😡😡😡😡 0 rating hai meri ganda app haii yehh"
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/7/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Please do not buy anything from Myntra, as they are selling fake products and refusing to take accountability. I ordered an H\u0026M pair of jeans that turned out to be ill-fitted, but when the delivery agent arrived for the pickup, he outright refused the return, claiming that the brand name \"H\u0026M\" was not engraved on the button. How is an everyday consumer supposed to inspect microscopic details like button engravings when all the original tags and packaging were completely intact?\nMyntra delivered a counterfeit item in the first place, and now their customer support has trapped me in a loop of empty promises. Since August 14th—nearly a week now—they have repeatedly delayed resolving the issue with false assurances of \"24 to 48 hours.\" Their callback service fails to connect, customer care lines are perpetually busy, and no one has initiated the pickup or processed my refund. This is not merely about the cost of the jeans; it is a breach of consumer trust. If Myntra delivers a fake product, penalizing the customer and refusing a legitimate return is unacceptable. Avoid shopping on Myntra unless you are willing to risk losing your money on counterfeit items with zero customer support."
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/7/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "without seeing my return product they claimed that they have footage of my product. I am using first time Myntra in my life and this is wrost service. Other apps provided better service as compared to this.wrost service of my life delivery agent update status that quality check failed without seeing my return product and the Myntra team saying that they have investigated and find everything okay. send me the footage if you investigated this. Wrost service they don\u0027t care about customer value"
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/4/2026",
+                                                                        "rating":  2,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "I had the worst experience, I ordered a product, the date was 17th August, it got cancelled today on 18th August, other shopping apps are better than this 💯 time waste app💯 I\u0027m not change my review first of all your shopping app is not good"
+                                                                    },
+                                                                    {
+                                                                        "date":  "7/1/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "I open each saved item in a different browser tab and compare price and reviews side by side. I add things to wishlist mainly to keep track of what I liked while browsing, doesn\u0027t always mean I\u0027ll buy. Chalta hai but better ho sakta hai."
+                                                                    },
+                                                                    {
+                                                                        "date":  "6/27/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Myntra is honestly one of my favourite shopping apps! ❤️ The app is very easy to use. the collection is amazing \u0026 there are always great discounts \u0026 offers. I love how easy it is to search products compare options \u0026 check reviews before buying. The product variety is excellent \u0026 the overall shopping experience is smooth and convenient. 🛍️ Delivery \u0026 packaging have also been good in my experience \u0026 the return/exchange process is quite convenient. Thank u Myntra for making online shopping so easy"
+                                                                    },
+                                                                    {
+                                                                        "date":  "6/22/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "I compare cost per wear especially for pricier items like ethnic wear or occasion wear. I kept comparing it with newer arrivals and never circled back to the original saved item."
+                                                                    },
+                                                                    {
+                                                                        "date":  "6/19/2026",
+                                                                        "rating":  5,
+                                                                        "source":  "App Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Unsure about true to size fit since sizing varies so much between different brands here. I open each saved item in a different browser tab and compare price and reviews side by side."
+                                                                    },
+                                                                    {
+                                                                        "date":  "6/18/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Myntra ek number ka ghatiya aur froad banane ke liye aaya Hai ek order delivery karne ke liye ine logon ko ek Mahina lagta hai mere ko date by date dete ja raha hai ek number ka ghatiya hai koi bhi inse kuchh nahin Kar dega Flipkart meesho bahut badhiya hai 😡"
+                                                                    },
+                                                                    {
+                                                                        "date":  "6/16/2026",
+                                                                        "rating":  1,
+                                                                        "source":  "Play Store",
+                                                                        "theme":  "Product Comparison",
+                                                                        "quote":  "Found something similar cheaper on another app so didn\u0027t buy this one from wishlist."
+                                                                    }
+                                                                ],
+                                              "sentiment":  {
+                                                                "negative":  56,
+                                                                "positive":  45,
+                                                                "neutral":  2
+                                                            },
+                                              "count":  103
+                                          },
+                   "Return \u0026 Exchange Anxiety":  {
+                                                          "opportunity_score":  10,
+                                                          "percentage":  33.6,
+                                                          "pain_ratio":  0.73,
+                                                          "sample_quotes":  [
+                                                                                {
+                                                                                    "date":  "8/13/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "App Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "When the mistake is in their part, The return policy is complicated. It’s been days, Countless requests with customer support and grievance officer but issue is not getting resolved."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "8/9/2026",
+                                                                                    "rating":  5,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "easy delivery. easy return n refund but difficult to reach out customer care"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "8/5/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "bht hi bkwas app h koi bhi kuch purchase na kre mne top order kiya tha size exchange kiya to deliver boy dekh kr chle gya or exchange kiya hi nhi date bda di or aj cansel kr diya exchange isse ghtiya shoping app mne aj tk nhi dekha logo k paise khrb krte h ab m jo size muje ata hi nhi kya kru uska ase app ki wjh se online shoping pr se trust break ho jta h mera to yhi khna h sb logo se apne paise is app pr khrb na kre ye log scram kr rh h bht hi bura experience rh mera to 😞😞😞😞😞😞😞😫😫😫😡"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "8/2/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "false advertising and selling items at fraud claims ordered items double the price for their so called \" express delivery\" and still got delayed by 2 days . what a FRAUD"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/31/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "i want return parcel but help support not working"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/31/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "Recently had an issue the delivery guy has charged doubled the amount for the order,as we were not at home so transferred the amount as informed by him as it was a multiple order so that the other items would have also been delivered but nothing as such happened when checked. Raised multiple complaint but never received any resolution always issue closed saying no extra amount charged..I have submitted all proofs from my end and expect the same from your end but they say they can\u0027t share.-Fraud"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/28/2026",
+                                                                                    "rating":  4,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "Uncertain about the return policy in case it doesn\u0027t fit well once it arrives. I create a shortlist within my wishlist mentally and eliminate options one by one over days."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/26/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "horrible...... once it was a great app /website for shopping now it became one of the worst than worst .... delivery is always delayed that too weeks from the actual date of delivery or delivery is cancelled automatically.... horrible service..not recommended."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/20/2026",
+                                                                                    "rating":  5,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "Large Variety: Users like the wide range of clothing, beauty, and lifestyle brands. App Design: The interface is clean, smooth, and easy to navigate for browsing. Convenience: Many praise the simple return and exchange steps for correctly sized or non-defective items."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/19/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "very bad experience with recent order received wrong product with poor fitting nobody responds on help center from app"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/15/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "App Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "I occasionally use myntra i don’t prefer it. Whenever i have used I have got cheap product or it get cancelled after waiting for more than expected delivery. After all these repeated experiences I uninstalled the app."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/15/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "Myntra\u0027s return policy is complicated when you receive the wrong product. I have been waiting for days and still the issue is not getting resolved. Also their packaging is the worst."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/15/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "This app Product advertisement coming discount on this app when I\u0027m booking the product it\u0027s confirmed same offer at the booking time after 2 days it\u0027s getting ato cancelled without any issue I\u0027m seeing worst application."
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/14/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "Play Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "Disappointing This is extremely frustrating and completely unacceptable. I received a totally different product from what I ordered, and despite already contacting customer care multiple times, Myntra is still refusing to take the wrong product back.Instead of resolving such a basic issue,you are asking me to give feedback. This has caused unnecessary stress and wasted a lot of my time. I expect Myntra to take responsibility, arrange the return immediately, and issue my refund without any delay"
+                                                                                },
+                                                                                {
+                                                                                    "date":  "7/13/2026",
+                                                                                    "rating":  1,
+                                                                                    "source":  "App Store",
+                                                                                    "theme":  "Return \u0026 Exchange Anxiety",
+                                                                                    "quote":  "At present, I no longer consider Myntra a trustworthy shopping platform based on my experience. Customers may receive incomplete, incorrect, or entirely different products from what they ordered, and even when valid return requests are raised with supporting evidence, they can face unnecessary rejection or delays.\nIn my experience, the situation becomes even more frustrating when the logistics partner allegedly makes no genuine attempt to collect the return, yet the return is marked as cancelled or failed based on the pickup agent’s own status update. What is even more concerning is the suspension or deactivation of a customer’s account while valid returns, refunds, and the customer’s money remain unresolved. This leaves customers feeling helpless and raises serious concerns about the transparency and accountability of the platform’s return, logistics, and account-management processes. Myntra should prioritize customer protection, transparent investigations, genuine pickup attempts, timely refunds, and fair treatment instead of leaving customers to struggle to recover money for products they did not receive correctly. New Income source of income for Myntra...😒"
+                                                                                }
+                                                                            ],
+                                                          "sentiment":  {
+                                                                            "negative":  550,
+                                                                            "positive":  190,
+                                                                            "neutral":  15
+                                                                        },
+                                                          "count":  755
+                                                      },
+                   "Stock \u0026 Availability":  {
+                                                     "opportunity_score":  5.9,
+                                                     "percentage":  1.7,
+                                                     "pain_ratio":  0.55,
+                                                     "sample_quotes":  [
+                                                                           {
+                                                                               "date":  "8/9/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "I search Google for honest reviews of the brand before trusting it with my money. Wish there was a countdown or urgency indicator for limited stock on wishlist items."
+                                                                           },
+                                                                           {
+                                                                               "date":  "6/24/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "Item went out of stock in my size before I could finally decide to buy. I use wishlist to save gift ideas for my sister\u0027s birthday coming up next month."
+                                                                           },
+                                                                           {
+                                                                               "date":  "5/25/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "countdown or urgency indicator for limited stock on wishlist items i check if there are cashback offers on other apps before finalising the same purchase here"
+                                                                           },
+                                                                           {
+                                                                               "date":  "4/19/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "wish there was a countdown or urgency indicator for limited stock on wishlist items"
+                                                                           },
+                                                                           {
+                                                                               "date":  "4/9/2026",
+                                                                               "rating":  1,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "1-star experience. I contacted Myntra customer support TWICE about the same issue. The belt I wanted repeatedly showed as non-deliverable to my PIN code in the morning, then suddenly became deliverable in the evening—only for it to go out of stock. I had also previously ordered a belt that took so long to arrive that I had to cancel it, yet Myntra blamed the cancellation on me. Even now, the same belt is showing as deliverable again. Extremely frustrating and poor service."
+                                                                           },
+                                                                           {
+                                                                               "date":  "3/24/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "I’ve had a really good experience using Myntra. The app offers a wide range of brands and styles, making it easy to find something for every occasion. The interface is user-friendly, and browsing through categories is smooth and convenient.\n\nDelivery has been reliable, and the packaging is usually neat. I also appreciate the frequent discounts and deals, which make shopping more affordable. Returns and exchanges are generally hassle-free as well.\n\nOverall, it’s a great app for fashion shopping, though sometimes sizes go out of stock quickly. Still, definitely one of the best options out there!"
+                                                                           },
+                                                                           {
+                                                                               "date":  "2/11/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "Wish there was a countdown or urgency indicator for limited stock on wishlist items."
+                                                                           },
+                                                                           {
+                                                                               "date":  "2/2/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "Reviews with actual customer photos convince me far more than just the star rating alone. Wish there was a countdown or urgency indicator for limited stock on wishlist items."
+                                                                           },
+                                                                           {
+                                                                               "date":  "1/17/2026",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "Wish there was a countdown or urgency indicator for limited stock on wishlist items. Sahi hai but improvement chahiye."
+                                                                           },
+                                                                           {
+                                                                               "date":  "12/2/2025",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "I’ve been using the Myntra app for quite some time now, and overall it’s a very convenient and reliable shopping app for fashion and lifestyle products. The app is easy to navigate, and finding clothes, footwear, or accessories doesn’t take much time. The filters for size, price, brand, and color are very helpful, especially when you know exactly what you’re looking for.\n\nOne thing I really like about Myntra is the wide variety of brands and frequent discounts. There are always sales going on, which makes shopping feel worth it. The product images and descriptions are detailed, and customer reviews help a lot in deciding whether to buy a product or not.\n\nDelivery is usually on time, and the packaging is neat. Returns and exchanges are also quite smooth compared to many other apps, which gives confidence while ordering. Sometimes sizes or popular items go out of stock quickly, and during big sales the app can feel a little slow, but these are minor issues.\n\nOverall, Myntra is a great app for online fashion shopping. It’s user-friendly, offers good deals, and provides a hassle-free shopping experience. I would definitely recommend it to anyone who enjoys shopping online for clothes and accessories."
+                                                                           },
+                                                                           {
+                                                                               "date":  "10/5/2025",
+                                                                               "rating":  4,
+                                                                               "source":  "Play Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "If I add something in my cart then why has it gone out of stock"
+                                                                           },
+                                                                           {
+                                                                               "date":  "9/28/2025",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "I’ve been a loyal customer of myntra for almost a decade. I’ve only been facing issues for the past couple of months. I placed an order with no exchange coupon since I trust Mango products and i don’t have to return it. I received the product without belt and the product was Out of stock to place an exchange. I waited until a few days before the exchange deadline to see if the product is back in stock. Since it was not I contacted customer care to place the return request and they are telling me I should have contacted them sooner and it is against their policy to accept the return though I have 4 days left to return it. This is just one issue. I’m been having multiple issues with delivery, return pickup, package missing. I’m an icon customer and I’ve decided not to get anything from myntra any longer."
+                                                                           },
+                                                                           {
+                                                                               "date":  "9/15/2025",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "Very disappointed with the End of season Sale on Myntra. When I wanted to order certain products during the sale at discounted prices, Myntra showed that they could not be delivered to my address. However, now that the sale is over and the prices have increased, the exact same products are suddenly available for delivery to my location.\nThis feels unfair and misleading. If a product can be delivered to my address now, why was it unavailable during the sale? It gives the impression that delivery restrictions were applied only when the products were offered at lower prices.\nCustomers expect transparency and fair treatment during sales events. Myntra should clarify why this happens and ensure that all customers have equal access to sale offers. The End of Season Sale was disappointing because of this experience."
+                                                                           },
+                                                                           {
+                                                                               "date":  "8/10/2025",
+                                                                               "rating":  1,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "On Myntra, in my first order, I bought a product in a quantity of 2. The fitting wasn’t correct, so when they delivered it, they gave both items together in one package. But in the return option, it showed separately for each item. I returned only one item first, expecting them to check and refund the amount. I packed it the same way they delivered, in a single package, and returned it. They refunded me for only one item, not the other. So I placed another return request for the second item, and at that time I informed the delivery boy that I had already given both items together in the same package. But I didn’t get any information about the refund for the second item from them, and because of this, I have faced a loss of ₹634. I have never faced such an issue with any other online shopping platform before."
+                                                                           },
+                                                                           {
+                                                                               "date":  "7/29/2025",
+                                                                               "rating":  5,
+                                                                               "source":  "App Store",
+                                                                               "theme":  "Stock \u0026 Availability",
+                                                                               "quote":  "I was really impressed with the quality of these Puma track pants. The material feels premium, super comfortable, and perfect for both workouts and casual wear. The fit is athletic without being too tight, and the stitching/details are solid – definitely what you\u0027d expect from Puma.\n\nUnfortunately, I ordered the wrong size for myself, and the correct one wasn’t available at the time. That’s the only downside, but that’s on me. I’ll definitely keep an eye out for a restock because I’d love to get the right fit – they’re that good.\n\nHighly recommend, just double-check your sizing before purchasing!"
+                                                                           }
+                                                                       ],
+                                                     "sentiment":  {
+                                                                       "negative":  21,
+                                                                       "positive":  17,
+                                                                       "neutral":  0
+                                                                   },
+                                                     "count":  38
+                                                 },
+                   "Price \u0026 Discounts":  {
+                                                  "opportunity_score":  10,
+                                                  "percentage":  22.5,
+                                                  "pain_ratio":  0.4,
+                                                  "sample_quotes":  [
+                                                                        {
+                                                                            "date":  "8/14/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "I appreciate that wishlist items show discount badge, helps me decide fast. Recommended. ðŸ˜"
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/14/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "⭐⭐⭐⭐⭐\n\nReally happy with this purchase! The jeans fit perfectly and are very comfortable to wear. The fabric quality is good, and the color looks exactly like the pictures. The fitting is stylish and flattering, and the length is also perfect. Overall, a good-quality jeans at a reasonable price. Definitely worth buying! 👖✨"
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/13/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "The cloths fit perfectly every time I order and the cloth quality is reasonable for the prices."
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/12/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me i compare cost per wear especially for pricier items like ethnic wear or occasion wear"
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/12/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "myntra is best online purchase platform it\u0027s a very good site and many offers and discounts provided by myntra ."
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/10/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "very much better clothes and cloths fabric in minimum price"
+                                                                        },
+                                                                        {
+                                                                            "date":  "8/2/2026",
+                                                                            "rating":  1,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "false advertising and selling items at fraud claims ordered items double the price for their so called \" express delivery\" and still got delayed by 2 days . what a FRAUD"
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/30/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "Wishlist is my favourite feature to shortlist items however an \u0027add all to cart\u0027 button would honestly save so much time during sales. Not a deal breaker but annoying."
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/26/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "Good Quality products. Timely delivery. Easy shopping experience. MynCash offer is super good."
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/24/2026",
+                                                                            "rating":  1,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "After placing the order they give the delivery date 20 days after.and on the date of delivery they cancel the order.i m an icon customer and this has happened to me twice.and when u call the customer care they ask u to wait for the sale and place the order again.pathetic service.never expected this from Myntra"
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/21/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "Need a proper price history graph so I know if this is genuinely the lowest price or not. Being a working professional I buy faster from wishlist since I don\u0027t have time to browse again and again."
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/19/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "One of the most convenient way to shop online with discounts offers and seamless delivery. The 30mins delivery is eye candy"
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/17/2026",
+                                                                            "rating":  1,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "i mostly window shop using wishlist and a simple reminder notification a day before sale ends would improve conversion i think otherwise app is fine sahi hai but improvement chahiye ðŸ’¯"
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/15/2026",
+                                                                            "rating":  1,
+                                                                            "source":  "Play Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "worst app ever , my order has been delayed by 10 days and is still in arriving they don\u0027t under stand the value of costomer someone can have emergency . I\u0027m never gonna use thi app now and not gonna recommend any one else to order from here 😒"
+                                                                        },
+                                                                        {
+                                                                            "date":  "7/15/2026",
+                                                                            "rating":  5,
+                                                                            "source":  "App Store",
+                                                                            "theme":  "Price \u0026 Discounts",
+                                                                            "quote":  "Good app for purchasing branded clothes in discounted price"
+                                                                        }
+                                                                    ],
+                                                  "sentiment":  {
+                                                                    "negative":  203,
+                                                                    "positive":  297,
+                                                                    "neutral":  7
+                                                                },
+                                                  "count":  507
+                                              },
+                   "Social Validation":  {
+                                             "opportunity_score":  10,
+                                             "percentage":  12.8,
+                                             "pain_ratio":  0.38,
+                                             "sample_quotes":  [
+                                                                   {
+                                                                       "date":  "8/15/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "“Such a great app to find stylish and trendy new collections, with fast delivery!” ✨"
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/14/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "I appreciate that wishlist items show discount badge, helps me decide fast. Recommended. ðŸ˜"
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/8/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Very good gel for acne prone skin 👍🏻 recommended by my dermatologist 🙌🏻"
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/7/2026",
+                                                                       "rating":  1,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Maybe add option to share wishlist link with friends and family, would be useful. Hope the team looks into this. ðŸ˜¡"
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/7/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "It’s an amazing perfume. Fragrance is Osmmm and budget friendly too."
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/4/2026",
+                                                                       "rating":  4,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Wishlist is basically my shopping list for the upcoming wedding season in my family. I save items when I\u0027m not sure yet and want to think it over before buying."
+                                                                   },
+                                                                   {
+                                                                       "date":  "8/2/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Honestly half the stuff in my wishlist is stuff I saw on Instagram reels and added out of impulse. I usually screenshot my shortlisted items and compare them offline with my family later."
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/28/2026",
+                                                                       "rating":  4,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Myntra ka interface bahut smooth hai aur ispar kapdon ke latest trends aasani se mil jaate hain. Delivery aur size guides bhi kaafi acche hain, isliye ye shopping ke liye mera favorite app hai.\""
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/26/2026",
+                                                                       "rating":  1,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "horrible...... once it was a great app /website for shopping now it became one of the worst than worst .... delivery is always delayed that too weeks from the actual date of delivery or delivery is cancelled automatically.... horrible service..not recommended."
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/23/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "⭐⭐⭐⭐⭐\nAmazing shopping experience with Myntra! The app is easy to use, has a great variety of products, and the delivery is quick and reliable. I’m very happy with the quality and overall service. Highly recommended! 🛍️✨"
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/22/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Great collection of top brands, trendy styles, and genuine quality products."
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/18/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "App Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "I\u0027m from a tier 2 city so I wishlist more since local shopping options are limited here for me. I use wishlist to save gift ideas for my sister\u0027s birthday coming up next month."
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/15/2026",
+                                                                       "rating":  1,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "worst app ever , my order has been delayed by 10 days and is still in arriving they don\u0027t under stand the value of costomer someone can have emergency . I\u0027m never gonna use thi app now and not gonna recommend any one else to order from here 😒"
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/8/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "Absolutely loved my experience with this shopping app! 🛍️✨ The app is easy to use, the product variety is amazing, and the ordering process is smooth and hassle-free. The products arrived on time, were well-packaged, and matched the descriptions perfectly. The quality was also really good for the price. Overall, a reliable and convenient shopping app with great service. Highly recommended! ⭐⭐⭐⭐⭐"
+                                                                   },
+                                                                   {
+                                                                       "date":  "7/8/2026",
+                                                                       "rating":  5,
+                                                                       "source":  "Play Store",
+                                                                       "theme":  "Social Validation",
+                                                                       "quote":  "The products are excellent.Love the quality,trends going on"
+                                                                   }
+                                                               ],
+                                             "sentiment":  {
+                                                               "negative":  110,
+                                                               "positive":  178,
+                                                               "neutral":  0
+                                                           },
+                                             "count":  288
+                                         },
+                   "Product Quality \u0026 Fabric":  {
+                                                         "opportunity_score":  10,
+                                                         "percentage":  48.2,
+                                                         "pain_ratio":  0.21,
+                                                         "sample_quotes":  [
+                                                                               {
+                                                                                   "date":  "8/14/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "awesome app and we get instant delivery on time. quality also good."
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/14/2026",
+                                                                                   "rating":  1,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "Zero star option isn\u0027t available, delivery attempt was never made and got that delivery attempt failed message. Raised an issue but always bot replies and when called no one picks the call. delivery agent number given but always got declined. Never order from this app they only give fake hopes for early delivery . Worst app ever"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/14/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "App Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "⭐⭐⭐⭐⭐\n\nReally happy with this purchase! The jeans fit perfectly and are very comfortable to wear. The fabric quality is good, and the color looks exactly like the pictures. The fitting is stylish and flattering, and the length is also perfect. Overall, a good-quality jeans at a reasonable price. Definitely worth buying! 👖✨"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/13/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "The cloths fit perfectly every time I order and the cloth quality is reasonable for the prices."
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/13/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "good quality products,very supportive community"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/13/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "product is very good quality and color is not fade by wash comfortable cloth on myntra i love it."
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/12/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "App Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "Amazing fabric,nice colour"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/11/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "The clothes and other features or products are best and at good expense you can buy it and it has good and fast delivery"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/11/2026",
+                                                                                   "rating":  4,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "good quality and better to shoping"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/10/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "very much better clothes and cloths fabric in minimum price"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/10/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "App Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "These are really good headphones, and the sound quality is also very good."
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/9/2026",
+                                                                                   "rating":  4,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "Quality of products are really nice"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/7/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "we always receive good quality products by myntra and always receive on time"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/6/2026",
+                                                                                   "rating":  5,
+                                                                                   "source":  "Play Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "best quality and orginal product this app"
+                                                                               },
+                                                                               {
+                                                                                   "date":  "8/5/2026",
+                                                                                   "rating":  1,
+                                                                                   "source":  "App Store",
+                                                                                   "theme":  "Product Quality \u0026 Fabric",
+                                                                                   "quote":  "Wanted to check my other pending expenses this month before adding a new purchase. I kept comparing it with newer arrivals and never circled back to the original saved item. Thik thak hai overall."
+                                                                               }
+                                                                           ],
+                                                         "sentiment":  {
+                                                                           "negative":  230,
+                                                                           "positive":  846,
+                                                                           "neutral":  8
+                                                                       },
+                                                         "count":  1084
+                                                     },
+                   "Information Deficit":  {
+                                               "opportunity_score":  10,
+                                               "percentage":  5,
+                                               "pain_ratio":  0.6,
+                                               "sample_quotes":  [
+                                                                     {
+                                                                         "date":  "7/31/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "App Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "This delay has caused me significant inconvenience. I have already checked with my neighbours and reviewed the tracking information, but there are no helpful updates.\n\nSince your company failed to deliver the product within the promised timeframe, I no longer require the item."
+                                                                     },
+                                                                     {
+                                                                         "date":  "7/8/2026",
+                                                                         "rating":  5,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Absolutely loved my experience with this shopping app! 🛍️✨ The app is easy to use, the product variety is amazing, and the ordering process is smooth and hassle-free. The products arrived on time, were well-packaged, and matched the descriptions perfectly. The quality was also really good for the price. Overall, a reliable and convenient shopping app with great service. Highly recommended! ⭐⭐⭐⭐⭐"
+                                                                     },
+                                                                     {
+                                                                         "date":  "7/7/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "App Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Please do not buy anything from Myntra, as they are selling fake products and refusing to take accountability. I ordered an H\u0026M pair of jeans that turned out to be ill-fitted, but when the delivery agent arrived for the pickup, he outright refused the return, claiming that the brand name \"H\u0026M\" was not engraved on the button. How is an everyday consumer supposed to inspect microscopic details like button engravings when all the original tags and packaging were completely intact?\nMyntra delivered a counterfeit item in the first place, and now their customer support has trapped me in a loop of empty promises. Since August 14th—nearly a week now—they have repeatedly delayed resolving the issue with false assurances of \"24 to 48 hours.\" Their callback service fails to connect, customer care lines are perpetually busy, and no one has initiated the pickup or processed my refund. This is not merely about the cost of the jeans; it is a breach of consumer trust. If Myntra delivers a fake product, penalizing the customer and refusing a legitimate return is unacceptable. Avoid shopping on Myntra unless you are willing to risk losing your money on counterfeit items with zero customer support."
+                                                                     },
+                                                                     {
+                                                                         "date":  "7/6/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "today 19 Jul 26 almost 70 days passed, I returned a product worth ₹10,999 but have still not received my refund since 8 jun 26 order. Customer support keeps giving different instructions—first chargeback, then bank statement, bank details, and now a bank denial letter. I have submitted every document requested, yet there is no resolution. I have spent weeks following up and visiting my bank. worst ever merchant in my life. please don\u0027t buy anything here 🙏. myntra is complete fraud and scam."
+                                                                     },
+                                                                     {
+                                                                         "date":  "6/26/2026",
+                                                                         "rating":  5,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "I really had a great experience using the Myntra app. The app is easy to use, well-designed, and has a wide variety of products to choose from. I especially like the easy search, filters, product details, and smooth shopping experience. The delivery process is also convenient, and the products I received were good in quality. Overall, Myntra makes online shopping simple, comfortable, and enjoyable. I am very satisfied with the app and would definitely recommend it to others. ⭐⭐⭐⭐⭐"
+                                                                     },
+                                                                     {
+                                                                         "date":  "6/15/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "App Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Myntra, this is extremely frustrating and honestly unacceptable.\n\nYour app keeps cancelling my orders without any prior information or even a phone call. Four of my orders have been cancelled to date, and not once have I received a proper call before the cancellation.\n\nWhat exactly does “cancelled under some circumstances” mean? If there is an issue with the order, inventory, delivery, or anything else, the customer deserves to be informed clearly before you cancel it. This is not a fair way to treat customers, especially from a brand like Myntra.\n\nThank God I don’t usually make prepaid orders on this app, because after this experience, I have very little confidence that my order will actually be delivered.\n\nPlease look into this issue seriously and provide a proper explanation for these repeated cancellations. This experience is extremely disappointing and unacceptable."
+                                                                     },
+                                                                     {
+                                                                         "date":  "5/30/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "very dissatisfied with Myntra. the customer care is waste. the only resolution they have is return the product. they can\u0027t handle delivery executives, they just force us to cancel the order so that they can gain platform fee every single time. Very frequent issue of mismatch between the description and actual product. I have raised complaints more than 10 times in this year. Myntra is going to loose lot of customers at this rate. never gonna order from Myntra again."
+                                                                     },
+                                                                     {
+                                                                         "date":  "5/13/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Bilkul, thoda strong aur detailed review ye rahega: ““Very disappointing experience with Myntra. This was my first order, but I received a defective product. My account has been blocked for 3 days, so I’m unable to return it or contact customer support properly. Please unblock my account and help me with the return and refund.”"
+                                                                     },
+                                                                     {
+                                                                         "date":  "5/5/2026",
+                                                                         "rating":  5,
+                                                                         "source":  "App Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Myntra is one of the best online shopping platforms for fashion and lifestyle products. It offers a wide range of clothing, footwear, and accessories from popular brands at affordable prices. Myntra is one of the best online shopping platforms for fashion and lifestyle products. It offers a wide range of clothing, footwear, and accessories from popular brands at affordable prices. The app and website are user-friendly, making it easy to browse, select, and purchase items. I especially like their frequent sales and discounts, which help save money while shopping for trendy outfits. The delivery service is usually quick and reliable, and the packaging is neat. Myntra also has a hassle-free return and exchange policy, which makes shopping more convenient and stress-free. However, sometimes the sizes may vary depending on the brand, so it’s important to check the size chart before buying. Overall, Myntra provides a great shopping experience with quality products, good customer service, and attractive deals. I would definitely recommend it to anyone who loves online fashion shopping."
+                                                                     },
+                                                                     {
+                                                                         "date":  "5/2/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Worst experience in last few orders. Tracking details shows order received at nearest delivery location but never received."
+                                                                     },
+                                                                     {
+                                                                         "date":  "4/18/2026",
+                                                                         "rating":  5,
+                                                                         "source":  "App Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Thanks for delivery speed and parcel delivery service \nParcel packaging is well and 100% recyclable pack\nItem is as same size and quality as description"
+                                                                     },
+                                                                     {
+                                                                         "date":  "4/15/2026",
+                                                                         "rating":  2,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "The services of Myntra were good enough in the past but now it has been downgraded to earth. Products, rates and offers are average but delivery and customer help center are the worst and headache to buyers. Don\u0027t buy anything through Myntra if you need timely delivery. Myntra has no control over delivery agents. They reschedule your delivery date without any information. Myntra help center is totally digital based AI. You can\u0027t contact a real customer service agent despite repeated efforts."
+                                                                     },
+                                                                     {
+                                                                         "date":  "4/5/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Very disappointing experience with Myntra. I ordered two items as a birthday gift for my sister. One was promised for 9th August and the other for 12th August, but neither was delivered on time. Today is her birthday, so the delay completely ruined my plan. Customer support only said that a complaint has been raised and it may take time. If you cannot deliver on the promised date, please don’t show misleading delivery timelines. Very poor service. ⭐ 1/5"
+                                                                     },
+                                                                     {
+                                                                         "date":  "4/1/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "i have an exchange order and when the delivery person tries to give me the exchange. there is an issue that the number on the tag is not verified. i still have the tag intact from the jeans. have tried to contact myntra but whenever I call answered by an AI assistant which has repeated questions. And no information about my exchange."
+                                                                     },
+                                                                     {
+                                                                         "date":  "3/18/2026",
+                                                                         "rating":  1,
+                                                                         "source":  "Play Store",
+                                                                         "theme":  "Information Deficit",
+                                                                         "quote":  "Misleading - ask to write reviews for orders to only say better luck next time"
+                                                                     }
+                                                                 ],
+                                               "sentiment":  {
+                                                                 "negative":  67,
+                                                                 "positive":  44,
+                                                                 "neutral":  1
+                                                             },
+                                               "count":  112
+                                           },
+                   "Wishlist as Bookmarking":  {
+                                                   "opportunity_score":  10,
+                                                   "percentage":  13.1,
+                                                   "pain_ratio":  0.61,
+                                                   "sample_quotes":  [
+                                                                         {
+                                                                             "date":  "8/15/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "the ui of wishlist page feels cluttered and loading is slow when list is long rest of the app is good though time hi waste hua mera ðŸ˜¡"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/14/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "Play Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "I appreciate that wishlist items show discount badge, helps me decide fast. Recommended. ðŸ˜"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/13/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "The UI of wishlist page feels cluttered and loading is slow when list is long. Time hi waste hua mera. ðŸ˜ž"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/12/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me i compare cost per wear especially for pricier items like ethnic wear or occasion wear"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/10/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "too many push notifications about wishlist items i\u0027m not even interested in anymore hope the team looks into this bilkul bhi accha nahi laga ðŸ˜ž"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/9/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "Play Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "I search Google for honest reviews of the brand before trusting it with my money. Wish there was a countdown or urgency indicator for limited stock on wishlist items."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/9/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "The UI of wishlist page feels cluttered and loading is slow when list is long. This needs urgent attention. Bilkul bhi accha nahi laga."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/7/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "Play Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Thinking about it, Adding to wishlist helps me remember what I saw across different browsing sessions on different days."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/7/2026",
+                                                                             "rating":  1,
+                                                                             "source":  "Play Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Maybe add option to share wishlist link with friends and family, would be useful. Hope the team looks into this. ðŸ˜¡"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/6/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "Play Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Wishlist for daily basics like innerwear feels like genuine intent, ethnic wear is more like browsing for me."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/5/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Reviews on the product page were not convincing enough for me to finally commit and buy. I got distracted with other things and simply forgot I had saved it in the first place."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/5/2026",
+                                                                             "rating":  1,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Wanted to check my other pending expenses this month before adding a new purchase. I kept comparing it with newer arrivals and never circled back to the original saved item. Thik thak hai overall."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/5/2026",
+                                                                             "rating":  1,
+                                                                             "source":  "Reddit",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Dear Myntra ,\n\nI am writing to raise a formal complaint regarding the delayed delivery of two HRX products that I ordered from Myntra. The promised delivery date was 18 August, but the products have still not been delivered. Moreover, there has been no proper update showing the order as delayed or explaining the reason for the delay.\n\nI have already contacted Myntra Customer Care two to three times regarding this issue. Even before today, there was no proper delivery attempt made for my order. Today was the promised delivery date, yet the delivery was again not attempted.\n\nWhen I contacted Customer Care earlier, I was asked to wait until 9 PM for the delivery. After 9 PM, when I contacted Customer Care again, I was told to wait for another 72 hours.\n\nI would like to understand why I should be asked to wait for an additional 72 hours when the product was promised to me for delivery on 18 August. I placed the order based on the delivery date provided by Myntra, and I expect the product to be delivered within the committed timeline.\n\nI am a loyal Myntra customer and have always trusted Myntra for reliable service. Therefore, I do not expect such a delay without any proper communication or resolution.\n\nI request you to please look into this matter urgently, provide me with a clear explanation for the delay, and ensure that my products are delivered at the earliest without asking me to wait indefinitely.\n\nPlease treat this as a formal grievance and provide me with a proper resolution.\n\nRegards,\nYogendra Kumar Sharma"
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/4/2026",
+                                                                             "rating":  4,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Wishlist is basically my shopping list for the upcoming wedding season in my family. I save items when I\u0027m not sure yet and want to think it over before buying."
+                                                                         },
+                                                                         {
+                                                                             "date":  "8/2/2026",
+                                                                             "rating":  5,
+                                                                             "source":  "App Store",
+                                                                             "theme":  "Wishlist as Bookmarking",
+                                                                             "quote":  "Honestly half the stuff in my wishlist is stuff I saw on Instagram reels and added out of impulse. I usually screenshot my shortlisted items and compare them offline with my family later."
+                                                                         }
+                                                                     ],
+                                                   "sentiment":  {
+                                                                     "negative":  180,
+                                                                     "positive":  112,
+                                                                     "neutral":  3
+                                                                 },
+                                                   "count":  295
+                                               }
+               },
+    "sources":  {
+                    "reddit":  56,
+                    "appstore":  646,
+                    "playstore":  1547
+                },
+    "ratings":  {
+                    "3":  28,
+                    "2":  53,
+                    "1":  802,
+                    "4":  117,
+                    "5":  1249
+                }
+}
