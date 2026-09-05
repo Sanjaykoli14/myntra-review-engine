@@ -2,12 +2,7 @@
   "name": "myntra-review-discovery-engine",
   "version": "1.0.0",
   "description": "AI-powered conversational review intelligence engine for Myntra wishlist-to-purchase discovery.",
-  "main": "index.html",
-  "scripts": {
-    "dev": "serve .",
-    "start": "serve .",
-    "build": "echo 'Static build ready'"
-  },
+  "type": "module",
   "keywords": [
     "myntra",
     "review-intelligence",
