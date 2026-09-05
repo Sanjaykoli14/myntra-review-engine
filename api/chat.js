@@ -126,8 +126,33 @@ Generate the structured JSON analysis following the schema above.
     const contentStr = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
     const parsedJSON = JSON.parse(contentStr);
 
+    // Recursively sanitize all strings against Mojibake / encoding glitches
+    const sanitizeObj = (obj) => {
+      if (typeof obj === 'string') {
+        return obj
+          .replace(/â\x80\x93|â\x80\x94|â\x80\x92|â\x80\x95|â€“|â€”|â€\x93|â€\x94/g, '—')
+          .replace(/â\x80\x98|â\x80\x99|â\x80\x9A|â\x80\x9B|â€˜|â€™|â€\x99|â€\x98/g, "'")
+          .replace(/â\x80\x9C|â\x80\x9D|â\x80\x9E|â\x80\x9F|â€œ|â€\x9D|â€\x9C|â€ |â€/g, '"')
+          .replace(/â\x80\xA6|â€¦/g, '...')
+          .replace(/â\x80\xA2|â€¢/g, '•')
+          .replace(/Â/g, '')
+          .replace(/[\uFFFD\u0080-\u009F]/g, '');
+      } else if (Array.isArray(obj)) {
+        return obj.map(sanitizeObj);
+      } else if (obj !== null && typeof obj === 'object') {
+        const out = {};
+        for (const [k, v] of Object.entries(obj)) {
+          out[k] = sanitizeObj(v);
+        }
+        return out;
+      }
+      return obj;
+    };
+
+    const sanitizedResult = sanitizeObj(parsedJSON);
+
     return res.status(200).json({
-      ...parsedJSON,
+      ...sanitizedResult,
       engine_mode: 'live_groq',
       model_used: DEFAULT_MODEL,
       usage: data.usage

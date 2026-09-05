@@ -100,12 +100,14 @@ while ($listener.IsListening) {
                         max_tokens = 2000
                     } | ConvertTo-Json -Depth 6
 
-                    $headers = @{
-                        "Authorization" = "Bearer $groqApiKey"
-                        "Content-Type" = "application/json"
-                    }
+                    $webClient = New-Object System.Net.WebClient
+                    $webClient.Headers.Add("Authorization", "Bearer $groqApiKey")
+                    $webClient.Headers.Add("Content-Type", "application/json; charset=utf-8")
+                    $webClient.Encoding = [System.Text.Encoding]::UTF8
 
-                    $groqRes = Invoke-RestMethod -Uri "https://api.groq.com/openai/v1/chat/completions" -Method Post -Headers $headers -Body $groqPayload
+                    $contentBytes = $webClient.UploadData("https://api.groq.com/openai/v1/chat/completions", "POST", [System.Text.Encoding]::UTF8.GetBytes($groqPayload))
+                    $groqRawJson = [System.Text.Encoding]::UTF8.GetString($contentBytes)
+                    $groqRes = $groqRawJson | ConvertFrom-Json
                     $contentStr = $groqRes.choices[0].message.content
 
                     $response.ContentType = "application/json; charset=utf-8"

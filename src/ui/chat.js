@@ -107,8 +107,8 @@ export class ChatView {
     row.className = 'message-row ai';
 
     const isLiveGroq = data.engine_mode === 'live_groq';
-    const badgeText = isLiveGroq ? '⚡ Groq LLaMA 3.3 70B' : '⚡ Local Evidence Synthesis';
-    const modelTag = data.model_used || 'Evidence-Grounded Synthesizer';
+    const badgeText = isLiveGroq ? '⚡ Groq GPT-OSS 120B' : '⚡ Local Evidence Synthesis';
+    const modelTag = isLiveGroq ? (data.model_used || 'openai/gpt-oss-120b') : 'Evidence-Grounded Synthesizer';
     const opp = data.opportunity_analysis || {};
     const impactScore = opp.conversion_impact_score || 8.5;
     const actions = opp.recommended_actions || [];
@@ -198,7 +198,7 @@ export class ChatView {
     const copyBtn = row.querySelector('.btn-copy-card');
     if (copyBtn) {
       copyBtn.addEventListener('click', () => {
-        const textToCopy = `QUESTION: ${data.query}\n\nEXECUTIVE ANSWER:\n${data.direct_answer}\n\nPRIMARY BARRIER:\n${opp.primary_barrier}\n\nRECOMMENDED ACTIONS:\n${actions.join('\n- ')}`;
+        const textToCopy = `QUESTION: ${this.cleanText(data.query)}\n\nEXECUTIVE ANSWER:\n${this.cleanText(data.direct_answer)}\n\nPRIMARY BARRIER:\n${this.cleanText(opp.primary_barrier)}\n\nRECOMMENDED ACTIONS:\n${actions.map(a => this.cleanText(a)).join('\n- ')}`;
         navigator.clipboard.writeText(textToCopy).then(() => {
           copyBtn.textContent = '✓ Copied!';
           setTimeout(() => { copyBtn.textContent = '📋 Copy Answer'; }, 2000);
@@ -227,9 +227,27 @@ export class ChatView {
     this.feedContainer.scrollTop = this.feedContainer.scrollHeight;
   }
 
+  cleanText(str) {
+    if (!str) return '';
+    return String(str)
+      // Fix Mojibake en-dash / em-dash / hyphen patterns
+      .replace(/â\x80\x93|â\x80\x94|â\x80\x92|â\x80\x95|â€“|â€”|â€\x93|â€\x94/g, '—')
+      // Fix Mojibake single quotes & apostrophes
+      .replace(/â\x80\x98|â\x80\x99|â\x80\x9A|â\x80\x9B|â€˜|â€™|â€\x99|â€\x98/g, "'")
+      // Fix Mojibake double quotes
+      .replace(/â\x80\x9C|â\x80\x9D|â\x80\x9E|â\x80\x9F|â€œ|â€\x9D|â€\x9C|â€|â€/g, '"')
+      // Fix Mojibake ellipsis & bullets
+      .replace(/â\x80\xA6|â€¦|â€\xA6/g, '...')
+      .replace(/â\x80\xA2|â€¢/g, '•')
+      // Clean stray Latin-1 remnants and replacement characters
+      .replace(/Â/g, '')
+      .replace(/[\uFFFD\u0080-\u009F]/g, '');
+  }
+
   escapeHTML(str) {
     if (!str) return '';
-    return str
+    const cleaned = this.cleanText(String(str));
+    return cleaned
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
